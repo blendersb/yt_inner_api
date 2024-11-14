@@ -65,7 +65,8 @@ async function searchPlayerDataWithPostAPI(query) {
             }
         },
         racyCheckOk: "false",
-        contentCheckOk: "false"
+        contentCheckOk: "false",
+        LOGGED_IN:"true",
     };
 
     try {
